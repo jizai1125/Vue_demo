@@ -8,13 +8,13 @@
 
    > 从列表页进详情页，缓存列表页，当返回列表页，重新拉取数据；
 
-   <img src="C:\Users\14145\Desktop\列表缓存.gif" alt="列表缓存" style="zoom:50%;" />
+   <img src="http://wiki.aihuoshi.net/download/attachments/45777482/%E5%88%97%E8%A1%A8%E7%BC%93%E5%AD%98.gif?version=1&modificationDate=1611560372000&api=v2" alt="列表缓存" style="zoom:50%;" />
 
 2. 同级路由切换缓存
 
    > 菜单切换，缓存访问过的页面
    
-   ![菜单页面缓存](C:\Users\14145\Desktop\菜单页面缓存.gif)
+   ![菜单页面缓存](http://wiki.aihuoshi.net/download/attachments/45777482/%E8%8F%9C%E5%8D%95%E9%A1%B5%E9%9D%A2%E7%BC%93%E5%AD%98.gif?version=1&modificationDate=1611560383000&api=v2)
 
 ### 思路
 
